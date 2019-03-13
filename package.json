@@ -1,0 +1,28 @@
+{
+  "name": "panicbuttonbknd",
+  "version": "1.0.0",
+  "description": "panic button's backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titiapps/panicButtonBknd.git"
+  },
+  "keywords": [
+    "panico",
+    "boton",
+    "backend"
+  ],
+  "author": "Alex CD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titiapps/panicButtonBknd/issues"
+  },
+  "homepage": "https://github.com/titiapps/panicButtonBknd#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
